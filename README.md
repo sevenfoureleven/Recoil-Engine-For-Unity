@@ -50,3 +50,5 @@ https://github.com/TheToolmansCoffee/RecoilEngineVariables/assets/93699568/69762
 
 ### 5. You can also call [recoilenginename].ApplyRandomization(ref recoilpatternname) in any function to randomize the animation curve every time the recoil is called.
 ![revapplyrandom](https://github.com/TheToolmansCoffee/RecoilEngineVariables/assets/93699568/f3302f13-c30b-47f7-a332-4463afc926e9)
+
+## WARNING: Recoil Engine does not handle returning the rotation of the recoil object, not yet at least, although you can just store the value of the initial rotation and then just lerp back to that and/or just use Quaternion.identity.
