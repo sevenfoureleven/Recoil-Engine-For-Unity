@@ -28,3 +28,19 @@ https://github.com/TheToolmansCoffee/RecoilEngineVariables/assets/93699568/69762
 ## How to use the RecoilEngineVariables namespace.
 
 ### 1. Call the RecoilEngineVariables namespace;
+![usingrev](https://github.com/TheToolmansCoffee/RecoilEngineVariables/assets/93699568/54af8fa8-8f85-4446-94a0-bebb7e85579b)
+
+### 2. Define a new RecoilEngine in start. Publicly declaring this is not a valid execution and may cause issues.
+![revdefre](https://github.com/TheToolmansCoffee/RecoilEngineVariables/assets/93699568/3cb6c561-dfb2-4743-a126-40c84af440e5)
+
+### 3. Create either a SerializeField or a public RecoilPattern. 
+![defrecoilpattern](https://github.com/TheToolmansCoffee/RecoilEngineVariables/assets/93699568/66b33b95-60ad-4236-820d-88c4593d75b9)
+
+### 3.5. You can now access these variables in your object
+![revpublicvar](https://github.com/TheToolmansCoffee/RecoilEngineVariables/assets/93699568/a2176f6b-eb2b-4d5e-b48e-9536dff4210a)
+
+### 4. You can now call [recoilenginename].ApplyRecoil(recoilpatternname) in any function.
+![revapplyrec](https://github.com/TheToolmansCoffee/RecoilEngineVariables/assets/93699568/d686515a-974b-4fcc-bd0e-b6b3716cbdaa)
+
+### 5. You can also call [recoilenginename].ApplyRandomization(ref recoilpatternname) in any function to randomize the animation curve every time the recoil is called.
+![revapplyrandom](https://github.com/TheToolmansCoffee/RecoilEngineVariables/assets/93699568/f3302f13-c30b-47f7-a332-4463afc926e9)
