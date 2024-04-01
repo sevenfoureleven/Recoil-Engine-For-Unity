@@ -37,6 +37,12 @@ https://github.com/TheToolmansCoffee/RecoilEngineVariables/assets/93699568/69762
 ![defrecoilpattern](https://github.com/TheToolmansCoffee/RecoilEngineVariables/assets/93699568/66b33b95-60ad-4236-820d-88c4593d75b9)
 
 ### 3.5. You can now access these variables in your object
+### Recoil Object: the object the recoil will be applied to. Should be an empty parent object set at 0, 0, 0 rotation for best execution!
+### Curve: the animation curve which defines the recoil.
+### max Intensity: the absolutely maximum intensity of randomizatiom.
+### Max Z Rotation: the maximum rotation on the Z axis.
+### Kickback Intensity: how big kickback is, I.e. how much the object will be moved backwards upon recoil. Probably shouldn't be set to over 0.1 in most cases.
+### Z Rotation: if you want the object to also rotate on the Z axis.
 ![revpublicvar](https://github.com/TheToolmansCoffee/RecoilEngineVariables/assets/93699568/a2176f6b-eb2b-4d5e-b48e-9536dff4210a)
 
 ### 4. You can now call [recoilenginename].ApplyRecoil(recoilpatternname) in any function.
