@@ -11,3 +11,8 @@
 # SCRIPT EXAMPLE
 ## Basic example script on how to set-up Recoil Engine in a script.
 https://github.com/TheToolmansCoffee/RecoilEngineVariables/assets/93699568/697625d6-6e55-4bbd-9950-fc45ce994c1f
+
+# DOCUMENTATION
+## How to use the RecoilEngineVariables namespace.
+
+### 1. Call the RecoilEngineVariables namespace;
