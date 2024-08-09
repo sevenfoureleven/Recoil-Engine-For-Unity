@@ -1,5 +1,7 @@
 # RECOIL ENGINE FOR UNITY
 
+# *USING THIS REPOSITORY FOR ANY KIND OF ARTIFICIAL INTELLIGENCE DEVELOPMENT IS STRICTLY FORBIDDEN
+
 ![](ShowcaseVideosPhotos/recoilenginelogo.png)
 
 ## Recoil Engine is a procedural recoil system namespace for the Unity game engine.
